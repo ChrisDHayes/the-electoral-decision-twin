@@ -1,5 +1,7 @@
 # The Electoral Decision Twin
 
+**[View the live site →](https://chrisdhayes.github.io/the-electoral-decision-twin/)**
+
 **What people tell us, what our models predict, what elections reveal, and why outcomes occur are four different questions.**
 
 A research-led collection of interactive election investigations. The project distinguishes polling, prediction, observed results, and causal explanation rather than treating them as interchangeable.
@@ -18,7 +20,9 @@ The locked Canada–Toronto design features a five-act narrative, Canadian feder
 V0.1 is a **companion investigation**, not a transplanted Canada forecast. Its interactive experience explores historical forecast accountability and the route from elections to certified results. Do not interpret illustrative scenarios, incomplete data, or exploratory graphics as calibrated election forecasts.
 
 ## Evidence and reproducibility
-The project aspires to make every important analytical claim traceable to source material, methods, geographic joins, timing, and limitations. Separate *observed results*, *historical data*, *survey estimates*, *forecast models*, *counterfactual scenarios*, and *causal claims*. Preserve original source dates and revision provenance.
+The project aspires to make every important analytical claim traceable to source material, methods, geographic joins, timing, and limitations. Separate *observed results*, *historical data*, *survey estimates*, *forecast models*, *counterfactual scenarios*, and *causal claims*.
+
+Preserve original source dates and revision provenance.
 
 ## Publication roadmap
 1. Import remaining datasets, methods, scripts and QA for the locked Canada–Toronto V19.3 release; the HTML has been transferred.
